@@ -1,0 +1,99 @@
+.bgi {
+    background-image: url(ign-background-1280jpg-e97e06.jpg);
+    height: 600px;
+    margin-top: 50px;
+    
+}
+
+.about{
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    /* margin-top: 30px; */
+    
+}
+
+.h1{
+    margin-top: 80px;
+}
+
+.h1:hover{
+    background-color: red;
+    font-size: 50px;
+    color: black;
+    
+}
+.p:hover{
+    background-color: red;
+    font-size: 20px;
+    color: black;
+}
+
+.cart{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    
+    
+}
+.cart1{
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.cart3{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+span:hover{
+      font-style: italic;
+    font-size: 25px;
+    background-color: cadetblue;
+}
+.footer2{
+   
+    display: flex;
+    flex-direction: row;
+   
+
+}
+
+.footer{
+    height: 400px;
+    margin-top: 35px;
+    background-color: black;
+}
+.f1{
+    display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+    
+}
+.f2{
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.f3{
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.f4{
+   margin-left: 15px; 
+   margin-top: 35px;
+}
+.f5{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+    
+}
